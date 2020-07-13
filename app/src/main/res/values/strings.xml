@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Pangram</string>
+    <string name="SentenceText">check if your sentence contains all the letters of alphabet(TRUE OR FALSE)</string>
+    <string name="fill_your_sentence">Fill your sentence</string>
+</resources>
